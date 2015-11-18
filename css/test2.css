@@ -1,0 +1,43 @@
+h1{
+	font-family: Georgia;
+	font-size: 80px;
+	color: #00f5ec;
+	text-align: center;
+}
+
+h2{
+	font-family: Georgia;
+	font-size: 20px;
+	color: #00f5ec;
+	text-align: center;
+	line-height: 27px;
+	margin-top: 0px;
+}
+
+p{
+	font-family: Helvetica;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+.white{
+	color: orange;
+	font-style: italic;
+}
+
+span{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #00f5ec;
+}
+
+
+body{
+	background-color: #574072;
+}
